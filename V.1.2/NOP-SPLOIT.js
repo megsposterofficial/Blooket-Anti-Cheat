@@ -48,18 +48,6 @@ let upgradeVisible = false;
 
 
 
-const observer = new MutationObserver(mutations => { // Prototype Exploit Element Scanner
-  for (let m of mutations) {
-    if (m.addedNodes.length && m.target.className.includes("upgrade-box")) {
-      upgradeVisible = true;
-      console.log(`[ANTI-CHEAT] Upgrade box appeared`);
-    }
-  }
-});
-observer.observe(document.body, { childList: true, subtree: true });
-
-
-
 function hack() { // Game State Connector
   try {
     let node = Object.values(document.querySelector("#app > div > div"))[1].children[1]._owner;
@@ -226,4 +214,5 @@ function main() { // Main Function
 setTimeout(() => {
   setInterval(main, 1000);
   console.log("[ANTI-CHEAT] NOP-SPLOIT V.1.2 activated.");
+
 }, 3000);
