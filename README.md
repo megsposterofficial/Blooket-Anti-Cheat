@@ -16,7 +16,7 @@
 
 ### **How it works?**
 
-#### Once the host starts the game, the host needs to immediately open up Inspect Tools on the browser then go to console. Paste the script and it will start tracking. Once a player uses an exploit like changes their score to a really high amount, the script will flag the player showing the difference from their old score, and will attempt to kick them from the game.
+#### Once the host starts the game, the host needs to immediately open up Inspect Tools on the browser then go to console. Paste the script and it will start tracking. Once a player uses an exploit like changes their score to a really high amount, the script will flag the player showing the difference from their old score, and will attempt to kick them from the game. Though it doesn't only detect exploits like score change.
 
 
 ----------
@@ -49,5 +49,6 @@
 ### **Credentials**
 
 #### Script and Document was made by © Megs Poster 2025.
+
 
 
