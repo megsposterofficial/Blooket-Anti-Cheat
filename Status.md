@@ -6,7 +6,7 @@
 
 #
 
-#### Development not yet implemented.
+#### Development in progress. Expected to release 5/11/2025.
 
 #
 
@@ -44,5 +44,6 @@
 #### Outdated Version. Public Release. 27/10/2025
 
 ----------
+
 
 
