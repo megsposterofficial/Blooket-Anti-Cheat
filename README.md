@@ -40,7 +40,7 @@
 
 #### The name was inspired by an early Nintendo Switch 2 exploit called NOP.
 
-
+--------------------------------------------
 
 ####
 
@@ -75,6 +75,7 @@
 ### **Credentials**
 
 #### Script and Document was made by © Megs Poster 2025.
+
 
 
 
