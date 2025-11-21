@@ -38,7 +38,7 @@
 
 
 
-#### The name was inspired by an early Nintendo Switch 2 exploit called NOP.
+#### The name was inspired by a CPU instruction called `NOP`, that does absolutely nothing.
 
 --------------------------------------------
 
@@ -75,6 +75,7 @@
 ### **Credentials**
 
 #### Script and Document was made by © Megs Poster 2025.
+
 
 
 
