@@ -16,7 +16,7 @@
 
 #
 
-#### Latest Version. Public Release. 31/10/2025
+#### Latest Version. Public Release. 31/10/2025 (Outdated, Blooket Patched)
 
 #
 
@@ -28,7 +28,7 @@
 
 
 
-#### Outdated Version. Public Release. 28/10/2025
+#### Outdated Version. Public Release. 28/10/2025 (Outdated, Blooket Patched)
 
 ----------
 
@@ -41,9 +41,10 @@
 #
 
 
-#### Outdated Version. Public Release. 27/10/2025
+#### Outdated Version. Public Release. 27/10/2025 (Outdated, Blooket Patched)
 
 ----------
+
 
 
 
