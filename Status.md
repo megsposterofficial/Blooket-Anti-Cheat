@@ -6,7 +6,7 @@
 
 #
 
-#### Development in progress. Coming soon...
+#### Development stopped forever.
 
 #
 
@@ -44,6 +44,7 @@
 #### Outdated Version. Public Release. 27/10/2025 (Outdated, Blooket Patched)
 
 ----------
+
 
 
 
